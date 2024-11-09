@@ -4,3 +4,4 @@ project(modo C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(modo main.c)
+add_executable(main01 main01.c)
